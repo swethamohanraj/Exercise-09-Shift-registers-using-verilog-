@@ -124,7 +124,7 @@ endmodule
 
 
 ### TIMING DIGRAMS FOR SHIFT REGISTERS
-![image](https://user-images.githubusercontent.com/94228215/172882673-e1f7924d-01f6-4f2d-8e13-9cf2e74b6525.png)
+![piso_tt](https://user-images.githubusercontent.com/94228215/172897711-fa4b4f40-b351-449c-8eb4-5298bc39251c.png)
 
 
 
