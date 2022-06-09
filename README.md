@@ -41,7 +41,8 @@ FIGURE-04
 A Parallel in Parallel out (PIPO) shift register is used as a temporary storage device and like SISO Shift register it acts as a delay element.
 
 ### Procedure
-/* Use quartus software and import required modules.
+```
+Use quartus software and import required modules.
 
 Assign inputs and outputs for shift registers.
 
@@ -50,8 +51,7 @@ Assign logic for input to give output at positive edge.
 Perform opertaions and produce rtl circuit.
 
 end module */
-
-
+```
 
 ### PROGRAM 
 ```
